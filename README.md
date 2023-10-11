@@ -19,3 +19,8 @@ Solutions to exercises from the book Eloquent JavaScript, 3rd Edition
 -   [x] 3.1 [Minimum](./3-functions/minimum.js)
 -   [x] 3.2 [Recursion](./3-functions/recursion.js)
 -   [x] 3.3 [Bean counting](./3-functions/bean-counting.js)
+
+### Chapter 4: Data structures
+
+-   [x] 4.1 [The sum of a range](./4-data-structures/the-sum-of-a-range.js)
+-   [x] 4.2 [Reversing an array](./4-data-structures/reversing-an-array.js)
