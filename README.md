@@ -24,3 +24,11 @@ Solutions to exercises from the book Eloquent JavaScript, 3rd Edition
 
 -   [x] 4.1 [The sum of a range](./4-data-structures/the-sum-of-a-range.js)
 -   [x] 4.2 [Reversing an array](./4-data-structures/reversing-an-array.js)
+-   [x] 4.3 [A list](./4-data-structures/a-list.js)
+-   [x] 4.4 [Deep comparison](./4-data-structures/deep-comparison.js)
+
+### Chapter 5: Higher-Order Functions
+
+-   [x] 5.1 [Flattering](./5-higher-order-functions//flattering.js)
+-   [x] 5.2 [Your own loop](./5-higher-order-functions/your-own-loop.js)
+-   [x] 5.3 [Everything](./5-higher-order-functions/everything.js)
