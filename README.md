@@ -29,6 +29,12 @@ Solutions to exercises from the book Eloquent JavaScript, 3rd Edition
 
 ### Chapter 5: Higher-Order Functions
 
--   [x] 5.1 [Flattering](./5-higher-order-functions//flattering.js)
+-   [x] 5.1 [Flattering](./5-higher-order-functions/flattering.js)
 -   [x] 5.2 [Your own loop](./5-higher-order-functions/your-own-loop.js)
 -   [x] 5.3 [Everything](./5-higher-order-functions/everything.js)
+
+### Chapter 6: The Secret Life of Objects
+
+-   [x] 6.1 [A vector type](./6-the-secret-life-of-objects/a-vector-type.js)
+-   [x] 6.2 [Groups](./6-the-secret-life-of-objects/groups.js)
+-   [x] 6.3 [Borrowing a method](./6-the-secret-life-of-objects/borrowing-a-method.js)
