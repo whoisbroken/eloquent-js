@@ -38,3 +38,8 @@ Solutions to exercises from the book Eloquent JavaScript, 3rd Edition
 -   [x] 6.1 [A vector type](./6-the-secret-life-of-objects/a-vector-type.js)
 -   [x] 6.2 [Groups](./6-the-secret-life-of-objects/groups.js)
 -   [x] 6.3 [Borrowing a method](./6-the-secret-life-of-objects/borrowing-a-method.js)
+
+### Chapter 7: Project: A Robot
+
+-   [x] 7.1 [Measuring a robot](./7-a-robot/measuring-a-robot.js)
+-   [x] 7.2 [Persistent group](./7-a-robot/persistent-group.js)
