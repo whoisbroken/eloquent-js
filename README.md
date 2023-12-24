@@ -43,3 +43,8 @@ Solutions to exercises from the book Eloquent JavaScript, 3rd Edition
 
 -   [x] 7.1 [Measuring a robot](./7-a-robot/measuring-a-robot.js)
 -   [x] 7.2 [Persistent group](./7-a-robot/persistent-group.js)
+
+### Chapter 8: Bugs and errors
+
+-   [x] 8.1 [Retry](./8-bugs-and-errors/retry.js)
+-   [x] 8.2 [The Locked box](./8-bugs-and-errors/locked-box.js)
